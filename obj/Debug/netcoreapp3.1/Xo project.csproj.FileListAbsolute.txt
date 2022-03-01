@@ -1,0 +1,16 @@
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.exe
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.deps.json
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.runtimeconfig.json
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.runtimeconfig.dev.json
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.dll
+C:\Users\new\source\repos\Xo project\Xo project\bin\Debug\netcoreapp3.1\Xo project.pdb
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.csproj.AssemblyReference.cache
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo_project.Form1.resources
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.csproj.GenerateResource.cache
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.AssemblyInfoInputs.cache
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.AssemblyInfo.cs
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.csproj.CoreCompileInputs.cache
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.dll
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.pdb
+C:\Users\new\source\repos\Xo project\Xo project\obj\Debug\netcoreapp3.1\Xo project.genruntimeconfig.cache
